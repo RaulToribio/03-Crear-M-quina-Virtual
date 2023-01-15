@@ -73,7 +73,7 @@ Se mostrará el resumen de las configuraciones realizadas.
 
 ![https://github.com/RaulToribio/03-Crear-Maquina-Virtual/blob/main/Im%C3%A1genes/Crear%20M%C3%A1quina%20Virtual%20(10).png?raw=true](https://github.com/RaulToribio/03-Crear-Maquina-Virtual/blob/main/Im%C3%A1genes/Crear%20M%C3%A1quina%20Virtual%20(10).png?raw=true)
 
-Así se verá la máquina virtual ya configurada.
+Así se verá la máquina virtual configurada.
 
 # Evidencias
 
