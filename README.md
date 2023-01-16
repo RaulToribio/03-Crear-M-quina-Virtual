@@ -1,8 +1,8 @@
+# 03-Crear-Maquina-Virtual
+
 # Introducción
 
-El concepto de máquina virtual puede definirse como equipos virtuales o equipos definidos por software dentro de servidores físicos, donde solo existen como código. Una máquina virtual (Virtual machine en inglés abreviado VM) es una réplica, en cuanto a comportamiento, de un equipo físico, como una PC, teléfono inteligente o un servidor, etc.
-
-[Wikipedia (2023)](https://es.wikipedia.org/wiki/M%C3%A1quina_virtual)
+Una máquina virtual es un software que simula un sistema informático completo, incluyendo hardware, como procesador, memoria y dispositivos de entrada y salida. Esto permite ejecutar diferentes sistemas operativos y aplicaciones en una sola máquina física, aislándolos entre sí. Esto es útil para probar aplicaciones en diferentes entornos, ejecutar sistemas operativos antiguos o incluso ejecutar aplicaciones que no son compatibles con el sistema operativo del host. Algunos ejemplos de software de máquina virtual son VirtualBox, VMware y Hyper-V.
 
 # Material Necesario
 
@@ -73,7 +73,7 @@ Se mostrará el resumen de las configuraciones realizadas.
 
 ![https://github.com/RaulToribio/03-Crear-Maquina-Virtual/blob/main/Im%C3%A1genes/Crear%20M%C3%A1quina%20Virtual%20(10).png?raw=true](https://github.com/RaulToribio/03-Crear-Maquina-Virtual/blob/main/Im%C3%A1genes/Crear%20M%C3%A1quina%20Virtual%20(10).png?raw=true)
 
-Así se verá la máquina virtual configurada.
+Así se verá la máquina virtual ya configurada.
 
 # Evidencias
 
